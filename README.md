@@ -1,4 +1,4 @@
-# Vue+axios实现的购物车功能
+
 quick start with npm install
 ``` cmd
 $ npm install
